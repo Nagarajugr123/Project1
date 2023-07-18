@@ -278,7 +278,7 @@
           </div>
         </div>
         <div class="btn-block">
-          <button type="submit" href="/">Apply For The Job</button>
+          <button type="submit" href="/">Apply For The Job click</button>
         </div>
       </form>
     </div>
