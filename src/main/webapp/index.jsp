@@ -194,8 +194,7 @@
     <div class="testbox">
       <form action="/">
         <div class="banner">
-          <h1>DevOps Job Application Form 2023</h1
-          <h2>Mobile No: </h2>
+          <h1>DevOps Job Application Form </h1>
         </div>
         <div align="left">
  
